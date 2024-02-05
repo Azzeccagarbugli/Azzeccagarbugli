@@ -1,11 +1,11 @@
-![Linux Day 2019 in Fabriano](https://user-images.githubusercontent.com/16477661/198754964-f1c71aea-4999-4afb-b8aa-fc21b82aa2db.png)
+![GitHub Banner](https://github.com/Azzeccagarbugli/Azzeccagarbugli/assets/16477661/35c1eb52-fca4-4e13-89e2-b9f936b30668)
 
 ### Hello there 👋
 
-I'm a software developer with a great passion for Flutter and Dart.
+I'm a software developer passionate about **Flutter** and **Dart**.
 
 - I’m investigating the bridge between **developers** and **designers**
-- I’m currently learning **psychology** and **neuroscience**
+- I’m currently learning **native development** and **dutch**
 - Ask me about mobile, web, or anything random
 - Feel free to reach me out on [Twitter](https://twitter.com/francescocops), [Reddit](https://www.reddit.com/user/azzecca-garbugli) or anywhere you wish
 - I love football, volleyball, and climbing mountains
